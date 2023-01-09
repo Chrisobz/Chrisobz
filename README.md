@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Chrisobz
+- 👋 Hi, I’m @Christian Obi
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Computer Science at Uni
-- 💞️ I’m looking to collaborate on any software development projects
-- 📫 How to reach me chrisobz on instagram
+- - 💞️ I’m looking to collaborate on any software development projects
+free lancer from South Africa
 
 <!---
 Chrisobz/Chrisobz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
