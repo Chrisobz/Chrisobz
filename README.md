@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Christian Obi
+- 👋 Hi, I’m @Chris Obiora
 - 👀 I’m interested in software development
 - - 💞️ I’m looking to collaborate on any software development projects
-free lancer from South Africa
+
 
 <!---
 Chrisobz/Chrisobz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
