@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an AI chatbot**
 
-- 🌱 I’m currently learning **IT **
+- 🌱 I’m currently learning IT
 
 - 👯 I’m looking to collaborate on **any software development projects**
 
