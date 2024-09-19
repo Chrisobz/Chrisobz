@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chris Obiora</h1>
 <h3 align="center">A passionate software developer from Kent</h3>
 
-- 🔭 I’m currently working on **an AI chatbot**
+- 🔭 I’m currently working on **Management System**
 
-- 🌱 I’m currently learning IT
+- 🌱 I’m currently learning Machine Learning
 
 - 👯 I’m looking to collaborate on **any software development projects**
 
-- 📫 How to reach me **obiora633@gmail.com**
+- 📫 How to reach me **christoph.obiora@gmail.com**
 
 - ⚡ Fun fact **I came 2nd in a Pizza making tournament when i was 16**
 
